@@ -1,2 +1,2 @@
-# odin-project-landing-page
-Odin Project Landing Page
+# Odin Project Landing Page
+Simple landing page template, built from a design provided by The Odin Project
